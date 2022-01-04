@@ -11,3 +11,6 @@ VSCode devcontainer setup for TypeScript development
 
 [^1]: https://code.visualstudio.com/docs/remote/create-dev-container
 [^2]: https://code.visualstudio.com/docs/remote/containers#_sharing-git-credentials-with-your-container
+
+https://www.youtube.com/watch?v=k5E2AVpwsko
+
